@@ -7,6 +7,6 @@ patchesStrategicMerge:
 
 images:
 - name: engineeringveli/argocd-demo
-  newTag: ce013a2
+  newTag: 0a1ea9d
 resources:
 - ../../base
